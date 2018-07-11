@@ -1,0 +1,9 @@
+{
+	"name": "soduko",
+	"authors": [
+		"burner"
+	],
+	"description": "Fun with soduko",
+	"copyright": "Copyright © 2018, burner",
+	"license": "proprietary"
+}
