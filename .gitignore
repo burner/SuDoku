@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+.dub
+docs.json
+__dummy.html
+docs/
+soduko.so
+soduko.dylib
+soduko.dll
+soduko.a
+soduko.lib
+soduko-test-*
+*.exe
+*.o
+*.obj
+*.lst
